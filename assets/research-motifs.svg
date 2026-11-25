@@ -53,27 +53,32 @@
       <path d="M19 163c15 5 28 7 42 6m-37 9 24 3" stroke-width="1.1"/>
     </symbol>
     <symbol id="golf" viewBox="0 0 240 240" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
-      <!-- Three-quarter finish: target left, weight over the planted lead leg. -->
-      <path d="M104 47c1-8 7-13 15-12 8 1 12 6 12 14l-24 2-10-2 7-2Z"/>
-      <path d="M106 51l-3 8 4 3v5l9 4 8-6 3-13m-11 19v6m8-12 4 10"/>
-      <path d="M113 77c-5 2-9 6-9 12l3 21 1 15c8 4 17 5 26 0l3-16 2-16m-11-18 7 4"/>
-      <path d="M106 117c9 4 19 5 30 0m-19-32 6 18m-3 20 5 1" stroke-width="1.1"/>
-      <!-- Both arms fold together; the hands share one grip above the shoulder. -->
-      <path d="M109 81c7 6 13 10 20 11 5 0 9-3 13-7l15-18-8-6-21 20-10-10"/>
-      <path d="M136 83c5 3 9 4 13 1l13-13c3-4 2-7-1-10l-7-4-5 4m-19 23 17-16"/>
-      <path d="m149 57-3-3c-2-2-5 0-4 3l3 7m9-7-5 6"/>
-      <!-- Shaft wraps behind the shoulders; the interrupted segment is occluded by the body. -->
-      <path d="m143 56-13 7m-29 15-44 23"/>
-      <path d="m57 101-8-2c-3-1-5 1-4 4l2 5 13-1 2-4-5-2Z"/>
-      <!-- Lead leg supports the body; trail knee turns inward and heel stays raised. -->
-      <path d="M108 125c-4 22-7 48-10 78l11 1c6-22 11-43 15-62"/>
-      <path d="M134 125l1 24c0 5-3 10-6 14l26 32-8 7-31-36c-3-4-4-8-3-12l5-18"/>
-      <path d="m101 202-8 5-8 3c-3 1-4 5 0 6h27l-3-12m-24 8h27"/>
-      <path d="m147 201 8-6 6 6 6 10c1 2 0 4-3 4h-6l-4-7-7-7Z"/>
-      <path d="m156 202 5 7m-50-45 5-4" stroke-width="1.1"/>
-      <path d="M72 220h107" stroke-width="1.1"/>
-      <!-- A quiet ball-flight trace, separated from the athlete. -->
-      <path d="M53 179c-14-27-15-56-8-80" stroke-dasharray="3 7" stroke-width="1.1"/>
+      <!-- Iron address in a three-quarter side view: hip hinge, soft knees, hanging arms. -->
+      <path d="M100 49c-2-9 3-17 12-17 9 0 15 7 14 16l-2 6"/>
+      <path d="M100 46c9 0 18 4 24 8l7 7-7 1-24-12v-4Z"/>
+      <path d="m102 52 3 10 10 9 8-3 2-5m-19 1-5 5m14 2-5 5"/>
+      <!-- Long, gently sloping back; the bend comes from the hips rather than the waist. -->
+      <path d="M101 68l-10-4c-6-2-11 0-16 5L42 107l-5 11c10 6 22 9 36 6l8-25"/>
+      <path d="m101 68 9 8-7 7-8-10m0 0-5 6" stroke-width="1.1"/>
+      <path d="m38 113 34 8m-30-1 1 5m20-1v4" stroke-width="1.1"/>
+      <!-- Far arm is lightly separated from the near arm; both hang below the shoulders. -->
+      <path d="m105 81 2 14 2 21 1 18-6 3-5-21-3-22"/>
+      <path d="M88 76c8-2 13 4 15 12l-2 12-17 1-5-12c-1-6 3-11 9-13Z"/>
+      <path d="m87 101 4 19 7 17 7-3-5-18-2-16"/>
+      <!-- A single clean overlapping grip below the belt, connected to the shaft. -->
+      <path d="m99 135 6-2 7 10-1 6-5 3-8-8-2-5 3-4Z"/>
+      <path d="m100 141 7 5m-3-14 1 3" stroke-width="1.1"/>
+      <!-- The pelvis sits back over the heels; modest knee flex, with both feet grounded. -->
+      <path d="M35 120c-6 12-2 28 5 43l-2 43 11 1 8-43-4-24m20-15c6 13 5 28-2 43l-5 39-11-1 4-42-12-26"/>
+      <path d="m41 161 7 2m15 3 7 1m-15-35 8 5" stroke-width="1.1"/>
+      <path d="m38 205 11 2 6 7 7 2 1 4H34c-3-2-3-4-1-7l5-8Zm17 0 11 2 8 7 11 2 3 4H54c-3-2-3-4-1-7l2-8Z"/>
+      <path d="M35 217h25m-4 0h28" stroke-width="1.1"/>
+      <!-- Continuous iron shaft and grounded clubhead, immediately behind a stationary ball. -->
+      <path d="m101 128 3 6m7 16 55 64"/>
+      <path d="m166 212 12 3-1 5h-14l-2-3 5-5Z"/>
+      <path d="m166 216 8 2" stroke-width="1.1"/>
+      <circle cx="183" cy="217" r="3"/>
+      <path d="M28 223h60m70 0h35" stroke-width="1.1"/>
     </symbol>
     <symbol id="display" viewBox="0 0 240 240" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
       <rect x="28" y="72" width="161" height="106" rx="7"/>
