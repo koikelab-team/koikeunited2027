@@ -17,7 +17,7 @@ h1 .event-title{display:inline;font-size:1em;letter-spacing:inherit;margin-top:0
 :root{--line:#cbdcea;--accent:#28618f}
 /* Quiet sketches of the lab's research themes, kept near the page edges. */
 body{position:relative;isolation:isolate}
-.research-background{position:absolute;inset:0;z-index:-1;overflow:hidden;pointer-events:none;color:var(--accent)}
+.research-background{display:block;position:absolute;inset:0;z-index:-1;overflow:hidden;pointer-events:none;color:var(--accent)}
 .research-motif{position:absolute;width:230px;height:230px;opacity:.14}
 .motif-vr{top:75px;left:max(14px,calc(50% - 740px));transform:rotate(-12deg)}
 .motif-ar{top:210px;right:max(8px,calc(50% - 735px));transform:rotate(10deg)}
