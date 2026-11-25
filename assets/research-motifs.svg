@@ -24,30 +24,56 @@
       <path d="M43 68h29m-29-7h17M145 183h31m-31 7h19" stroke-width="1.1"/>
     </symbol>
     <symbol id="ski" viewBox="0 0 240 240" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M138 58c1-8 8-13 15-11s11 9 9 15"/>
-      <path d="m138 58 24 4-4 7-17-3Z"/>
-      <path d="M141 67c-1 6 3 11 9 12m6-10-2 9"/>
-      <path d="M136 80c-15 4-29 16-40 32l17 11 21-26m2-17 10 12 12 15 22-6 3 8-27 10-23-17"/>
-      <path d="m125 89-18 16 17 12 21-3 2 8-25 4-26-14"/>
-      <path d="m96 112-17 27-3 28 10 3 8-27 14-12m5-8 26 16-24 31-10-5 17-24-21-13"/>
-      <path d="m76 167-5 9 20 5 2-6-8-5m20-5-5 12 20 5 3-6-8-6"/>
-      <path d="m181 108 27 77m-61-65 24 67m31-6 11-3m-47 6 10-3"/>
-      <path d="M42 176c50 14 107 21 158 13 7-1 11-5 14-11M31 189c55 15 111 20 167 12 7-1 13-4 18-10"/>
-      <path d="M32 104c17 5 30 4 43-3M22 118c17 4 31 4 45 0M25 146l32 7" stroke-width="1.1"/>
-      <path d="M80 63c11-11 25-18 40-21" stroke-dasharray="3 6" stroke-width="1.1"/>
+      <!-- Three-quarter side view: quiet upper body, flexed ankles, parallel edged skis. -->
+      <!-- Helmet, goggles and a forward-facing head. -->
+      <path d="M130 61c-3-10 3-19 13-19 10 0 17 9 14 19l-5 7-18-3-4-4Z"/>
+      <path d="m132 55 26 3-2 7-23-3-1-7Z"/>
+      <path d="m135 65 1 8 8 4 7-4 1-5m-16 5-6 6m14-2-1 6"/>
+      <!-- Far arm is slightly raised and held in front of the chest. -->
+      <path d="m133 82 15 13 17-7 5 8-23 10-13-8"/>
+      <path d="m165 88 5-3 6 3 1 5-7 3m4-3-24 79"/>
+      <path d="m146 168 8 3" stroke-width="1.1"/>
+      <!-- Jacket and near sleeve: shoulders forward of the hips, elbows soft. -->
+      <path d="M130 79c-17 4-33 17-45 33-4 5-7 10-5 15l22 11 17-20 12-17 8 11c2 3 5 4 9 3l30-7-2-9-28 5-10-18c-2-4-5-6-8-7Z"/>
+      <path d="m123 87 8 14m-47 20 21 10" stroke-width="1.1"/>
+      <path d="m176 99 6-1 5 4-1 6-8 2-2-11m8 9-20 76"/>
+      <path d="m160 179 8 2" stroke-width="1.1"/>
+      <!-- Far leg: bent hip and knee, shin presses into the boot tongue. -->
+      <path d="m108 131 30 12c5 2 7 6 5 11l-10 27-11-4 8-24-26-11"/>
+      <!-- Near leg: one continuous hip-knee-ankle contour. -->
+      <path d="M81 125c-5 7-4 11 3 15l30 17-12 35 11 4 16-40c2-5 1-9-4-12l-23-16"/>
+      <path d="m119 147 6 5m-17 24 9 3" stroke-width="1.1"/>
+      <!-- Boots meet the two parallel skis; toes face the direction of travel. -->
+      <path d="m122 176 12 3-2 6 14 2 3 4-29 2-3-6 5-11Z"/>
+      <path d="m102 190 12 4-2 5 14 2 4 4-30 2-5-7 7-10Z"/>
+      <path d="m120 184 12 2m-32 13 12 2" stroke-width="1.1"/>
+      <!-- Parallel carving lines, with both tips rising at the same angle. -->
+      <path d="M28 190c54 9 116 4 171-12 8-2 12-6 15-12M28 194c55 9 117 4 172-12 9-3 15-7 18-13"/>
+      <path d="M20 205c54 9 116 4 171-12 8-2 12-6 15-12M20 209c55 9 117 4 172-12 9-3 15-7 18-13"/>
+      <path d="M19 163c15 5 28 7 42 6m-37 9 24 3" stroke-width="1.1"/>
     </symbol>
     <symbol id="golf" viewBox="0 0 240 240" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
-      <circle cx="111" cy="61" r="11"/>
-      <path d="M100 59h24m-20-7c6-5 14-3 18 2"/>
-      <path d="m107 73-8 7-11 35 26 9 10-29-8-14-9-8Z"/>
-      <path d="m100 83 15 20 27 5 2-8-24-7-7-15m3 12 8 13 18 5"/>
-      <path d="m141 104 43-59m-2 1 3-8c2-4 6-5 9-2l5 6-12 8"/>
-      <path d="m89 115-3 38-13 37 11 3 20-38 7-24m3-7 14 34 11 29-10 5-18-29-12-20"/>
-      <path d="m73 190-9 8h24l-4-5m45-1-3 7h25l-12-12"/>
-      <path d="M42 134C18 75 59 28 118 25c25-1 48 7 66 21" stroke-dasharray="4 7" stroke-width="1.1"/>
-      <path d="M42 127v8l-8-3M171 201c11-2 22-2 33 0M35 205h119" stroke-width="1.1"/>
-      <circle cx="181" cy="190" r="4"/>
-      <path d="m181 196-1 5M188 183c12-11 23-25 29-42" stroke-dasharray="2 6" stroke-width="1.1"/>
+      <!-- Three-quarter finish: target left, weight over the planted lead leg. -->
+      <path d="M104 47c1-8 7-13 15-12 8 1 12 6 12 14l-24 2-10-2 7-2Z"/>
+      <path d="M106 51l-3 8 4 3v5l9 4 8-6 3-13m-11 19v6m8-12 4 10"/>
+      <path d="M113 77c-5 2-9 6-9 12l3 21 1 15c8 4 17 5 26 0l3-16 2-16m-11-18 7 4"/>
+      <path d="M106 117c9 4 19 5 30 0m-19-32 6 18m-3 20 5 1" stroke-width="1.1"/>
+      <!-- Both arms fold together; the hands share one grip above the shoulder. -->
+      <path d="M109 81c7 6 13 10 20 11 5 0 9-3 13-7l15-18-8-6-21 20-10-10"/>
+      <path d="M136 83c5 3 9 4 13 1l13-13c3-4 2-7-1-10l-7-4-5 4m-19 23 17-16"/>
+      <path d="m149 57-3-3c-2-2-5 0-4 3l3 7m9-7-5 6"/>
+      <!-- Shaft wraps behind the shoulders; the interrupted segment is occluded by the body. -->
+      <path d="m143 56-13 7m-29 15-44 23"/>
+      <path d="m57 101-8-2c-3-1-5 1-4 4l2 5 13-1 2-4-5-2Z"/>
+      <!-- Lead leg supports the body; trail knee turns inward and heel stays raised. -->
+      <path d="M108 125c-4 22-7 48-10 78l11 1c6-22 11-43 15-62"/>
+      <path d="M134 125l1 24c0 5-3 10-6 14l26 32-8 7-31-36c-3-4-4-8-3-12l5-18"/>
+      <path d="m101 202-8 5-8 3c-3 1-4 5 0 6h27l-3-12m-24 8h27"/>
+      <path d="m147 201 8-6 6 6 6 10c1 2 0 4-3 4h-6l-4-7-7-7Z"/>
+      <path d="m156 202 5 7m-50-45 5-4" stroke-width="1.1"/>
+      <path d="M72 220h107" stroke-width="1.1"/>
+      <!-- A quiet ball-flight trace, separated from the athlete. -->
+      <path d="M53 179c-14-27-15-56-8-80" stroke-dasharray="3 7" stroke-width="1.1"/>
     </symbol>
     <symbol id="display" viewBox="0 0 240 240" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
       <rect x="28" y="72" width="161" height="106" rx="7"/>
