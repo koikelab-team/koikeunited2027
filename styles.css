@@ -11,7 +11,7 @@
 .profile-affiliation{display:block;font-size:.875rem;color:var(--muted);margin-top:3px}
 @media(max-width:700px){.about-layout{grid-template-columns:minmax(0,1fr);gap:28px}.koike-profile{grid-row:1;justify-self:center;width:156px}}
 h1 .event-title{display:inline;font-size:1em;letter-spacing:inherit;margin-top:0}.lecture-name{font-size:17px;color:var(--muted);margin-top:14px;letter-spacing:.03em}
-.event-subtitle{font-size:clamp(19px,3vw,26px);font-weight:500;letter-spacing:-.3px;margin-top:12px}
+.schedule .audience-note{font-size:.875rem}
 .venue-map{margin-top:30px}.venue-map iframe{display:block;width:100%;height:360px}.map-link{display:block;width:fit-content;margin:12px auto 0;font-size:12px}@media(max-width:600px){.venue-map iframe{height:280px}}
 /* Subtle blue accents */
 :root{--line:#cbdcea;--accent:#28618f}
