@@ -15,6 +15,18 @@ h1 .event-title{display:inline;font-size:1em;letter-spacing:inherit;margin-top:0
 .venue-map{margin-top:30px}.venue-map iframe{display:block;width:100%;height:360px}.map-link{display:block;width:fit-content;margin:12px auto 0;font-size:12px}@media(max-width:600px){.venue-map iframe{height:280px}}
 /* Subtle blue accents */
 :root{--line:#cbdcea;--accent:#28618f}
+/* Quiet sketches of the lab's research themes, kept near the page edges. */
+body{position:relative;isolation:isolate}
+.research-background{position:absolute;inset:0;z-index:-1;overflow:hidden;pointer-events:none;color:var(--accent)}
+.research-motif{position:absolute;width:230px;height:230px;opacity:.14}
+.motif-vr{top:75px;left:max(14px,calc(50% - 740px));transform:rotate(-12deg)}
+.motif-ar{top:210px;right:max(8px,calc(50% - 735px));transform:rotate(10deg)}
+.motif-ski{top:720px;left:max(8px,calc(50% - 740px));transform:rotate(-8deg)}
+.motif-golf{top:1080px;right:max(10px,calc(50% - 735px));transform:rotate(8deg)}
+.motif-display{top:1600px;left:max(12px,calc(50% - 735px));transform:rotate(-10deg)}
+@media(max-width:1100px){.research-motif{width:190px;height:190px;opacity:.09}.motif-vr,.motif-ski,.motif-display{left:-40px}.motif-ar,.motif-golf{right:-40px}}
+@media(max-width:600px){.research-motif{width:160px;height:160px;opacity:.07}.motif-vr,.motif-ski,.motif-display{left:-52px}.motif-ar,.motif-golf{right:-52px}.motif-ar{top:360px}.motif-ski{top:960px}.motif-golf{top:1480px}.motif-display{top:2090px}}
+@media print{.research-background{display:none}}
 .schedule{border-top-color:var(--accent)}
 .text-link,.map-link,nav a:hover{color:var(--accent)}
 .badge,.registration .status{border-color:var(--line);color:var(--accent)}
